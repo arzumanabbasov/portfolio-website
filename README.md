@@ -1,13 +1,22 @@
-# Responsive Portfolio Website Alexa
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Portfolio Website Alexa
+# Arzuman's Personal Website
 
-- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+This is my personal website where I showcase my portfolio, skills, resume, and more.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+## Technologies Used
 
-![preview img](/preview.png)
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+To view the website locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+2. Open the `index.html` file in your web browser.
+
+## Features
+
+- Portfolio section showcasing my projects.
+- Skills section highlighting my technical skills.
+- Resume section providing a downloadable version of my resume.
