@@ -340,9 +340,20 @@ img {
   font-weight: var(--font-medium);
 }
 
+.button--ai{
+  background-color: #FFF;
+  color: var(--first-color);;
+  display: inline-flex;
+  align-items: center;
+}
 .button--white{
   background-color: #fff;
   color: var(--first-color);
+}
+
+.button--ai:hover{
+  background-color: var(--first-color);
+  color: #fff;
 }
 
 .button:hover{
@@ -355,7 +366,7 @@ img {
   transition: .3s;
 }
 
-.button__icon{
+.button__icon{h
   font-size: 1.25rem;
   margin-right: var(--mb-0-5);
   transition: .3s;
