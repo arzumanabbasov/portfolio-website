@@ -7,12 +7,13 @@ This is my personal website where I showcase my portfolio, skills, resume, and m
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 ## Getting Started
 
 To view the website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/your-username/portfolio-website.git`
 2. Open the `index.html` file in your web browser.
 
 ## Features
